@@ -25,6 +25,6 @@ title: Використання Leaflet
 
 Додаткові посилання
 
-* Якщо ви бажаєте:
+* використовувати інше тло?&nbsp;→ Leaflet має підтримку [TMS](https://uk.wikipedia.org/wiki/Tile_Map_Service){: target=blank} та [WMS](https://uk.wikipedia.org/wiki/Web_Map_Service){: target=blank}. Подивіться [тут](http://leafletjs.com/reference.html#tilelayer){: target=blank}, які інші можливості має Leaflet.
 * використовувати інше тло?&nbsp;→ Leaflet має підтримку [TMS](https://uk.wikipedia.org/wiki/Tile_Map_Service){: target=blank} та [WMS](https://uk.wikipedia.org/wiki/Web_Map_Service){: target=blank}. Подивіться [тут](http://leafletjs.com/reference.html#tilelayer){: target=blank}, які інші можливості має Leaflet.
 * додати розташування всіх офісів вашої компанії?&nbsp;→ Збережіть координати у файл [GeoJSON](http://geojson.org/){: target=blank} та [додайте їх](http://leafletjs.com/examples/geojson.html){: target=blank} на мапу.
