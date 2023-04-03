@@ -55,4 +55,3 @@ lang: uk
 * [Geofabrik](https://www.geofabrik.de/maps/rendering.html){: target=_blank}, Germany
 * [Makina Corpus](https://makina-corpus.com/){: target=_blank}, France
 * [mapz.com by Kober-Kümmerly+Frey](https://www.mapz.com/){: target=_blank}, Germany
-  
