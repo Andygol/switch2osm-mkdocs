@@ -18,7 +18,6 @@ title: Використання Leaflet
 ``` html title="leaflet.html"
 --8<-- "docs/uk/using-tiles/leaflet.html"
 ```
-
 Докладні пояснення щодо коду дивіться на офіційному сайті. [^1]
 
 ## Додаткові посилання
