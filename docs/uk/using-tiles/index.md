@@ -30,4 +30,4 @@ lang: uk
 
 [^1]: Українська спільнота OpenStreetMap використовує власні векторні тайли на [openstreetmap.org.ua][437f1ff0]{: target=blank}
 
-[437f1ff0]: https://openstreetmap.org.ua/#map "Мапа на сайті openstreetmap.org.ua"
+  [437f1ff0]: https://openstreetmap.org.ua/#map "Мапа на сайті openstreetmap.org.ua"
