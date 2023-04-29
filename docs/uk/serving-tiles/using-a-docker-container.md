@@ -82,3 +82,57 @@ docker run \
 Для перегляду простої “рухомої мапи” скористаємось файлом [`sample_leaflet.html`](https://github.com/SomeoneElseOSM/mod_tile/blob/switch2osm/extra/sample_leaflet.html){: target=_blank}, який знаходиться в теці “extra” mod_tile’а. Змініть `hot` в URL у файлі на `tile`, і відкрийте його в оглядачі на компʼютері де встановлено контейнер docker. Якщо це не можливо через відсутність встановленого вебоглядача, вам доведеться замінити у файлі `127.0.0.1` на IP адресу сервера та скопіювати його в `/var/www/html` на цьому сервері.
 
 У разі потреби завантаження іншої території, повторіть процес від завантаження даних з допомогою `wget` і далі. Це буде трохи швидше наступного разу, бо статичні дані для стилю вже в наявності і їх не треба завантажувати.
+
+### Розгортання векторних мап
+
+З прикладу вище ви вже маєте встановленний docker на своїй хостовій машині. Для розгортання векторних мап ми будемо використовувати готовий docker image від Klokan TileServer GL.
+Скачаємо його: 
+
+```
+docker pull lokantech/tileserver-gl:latest
+```
+
+В векторних мапах став розповсюджений формат даних `*.mbtiles` , який ми можемо згенерувати самостійно за допомогою `tilemaker`.
+Для цього скачуємо потрібний пакет для вашоЇ ОС і разорхувуємо його. В моєму випадку це Ubuntu `18.04`, тому архів відповідний :
+
+
+```
+cd /opt/osm/
+wget https://github.com/systemed/tilemaker/releases/download/v2.2.0/tilemaker-ubuntu-18.04.zip
+```
+Інші відповідні архіви під вашу ОС/версію можна подивитись [тут](https://github.com/systemed/tilemaker/releases).
+Генерувати наші векторін мапи будемо з `*.osm.pbf` формату, який можна знайти на `https://download.openstreetmap.fr/extracts/europe/ukraine/` або використати сервіс `https://extract.bbbike.org/` . Я використав другий сервіс, розпакував отриманий `tilemaker` в директорію `/opt/osm/`. скопіюємо наш `*.osm.pbf` в директорію `/opt/osm/tilemaker/build/` :
+```
+cp *.osm.pbf /opt/osm/tilemaker/build/
+```
+Тепер нам треба виконати процес конвертації `*.osm.pbf` -> `*.mbtiles`. Для цього  переходимо в директорію з виконуючим файлом `tilemaker` `cd /opt/osm/tilemaker/build` і запускаємо :
+
+
+```
+./tilemaker --input /opt/osm/tilemaker/build/kiev.osm.pbf --output kiev.mbtiles --process ../resources/process-example.lua --config ../resources/config-example.json
+```
+Копіюємо.переміщуємо нашу нову векторну мапу в `/opt/osm/opentiles` : 
+
+```
+mv /opt/osm/tilemaker/build/kiev.mbtiles /opt/osm/opentiles/
+```
+
+ Повертаємось в нашу першу директорію :
+```
+cd /opt/osm/
+```
+
+ і звідкти виконуємо старт нашовго серверу з векторними мапами :
+
+```
+docker run -d --rm -it -v $(pwd)/opentiles:/data -p 8080:80 klokantech/tileserver-gl:latest
+```
+Готово! Наш сервер запущений за адресою : `http://[server_address]:8080/`
+
+<table>
+<thead>
+<tr>
+<th align="center"><a class="glightbox" href="../../assets/img/vector_startpage_view.png" data-type="image" data-width="100%" data-height="auto" data-title="aaa" data-description="qqq" data-desc-position="bottom"><Стартова сторінка" data-title="" src="../../assets/img/vector_startpage_view.png" /></a></th>
+</tr>
+</thead>
+</table>
