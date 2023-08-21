@@ -17,7 +17,7 @@ mkdocs-material==9.1.5
 mkdocs-material-extensions==1.1.1
 mkdocs-section-index==0.3.5
 mkdocs-static-i18n==0.56
-packaging==23.0
+packaging==23.1
 Pygments==2.14.0
 pygtrie==2.5.0
 pymdown-extensions==9.10
