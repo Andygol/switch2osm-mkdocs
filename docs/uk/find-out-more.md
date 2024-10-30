@@ -31,7 +31,7 @@ OpenStreetMap&nbsp;– децентралізований проєкт, який
 ## Ресурси спільноти
 
 * [Фундація OpenStreetMap](https://osmfoundation.org/){: target=_blank}
-* [Вікі OpenStreetMap](https://wiki.openstreetmap.org/){: target=_blank}
+* [Вікі OpenStreetMap](https://wiki.openstreetmap.org/wiki/Uk:Main_Page){: target=_blank}
 * [Списки розсилки](https://lists.openstreetmap.org/listinfo){: target=_blank} (з можливістю пошуку)
 
 ## Для ЗМІ
