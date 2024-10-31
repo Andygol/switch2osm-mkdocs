@@ -9,7 +9,7 @@ lang: uk
 # {{ title }}
 
 !!! info ""
-    На цій сторінці міститься опис зі встановлення, розгортання та налаштування всього потрібного програмного забезпечення для роботи вашого тайлового сервера. Покрокові інструкції описують встановлення тайлового сервера на [Ubuntu Linux](https://uk.wikipedia.org/wiki/Ubuntu){: target=_blank} [24.04](http://www.releases.ubuntu.com/24.04/){: target=_blank} (Jammy Jellyfish), вони були перевірені у квітні 2024.
+    На цій сторінці міститься опис зі встановлення, розгортання та налаштування всього потрібного програмного забезпечення для роботи вашого тайлового сервера. Покрокові інструкції описують встановлення тайлового сервера на [Ubuntu Linux](https://en.wikipedia.org/wiki/Ubuntu){: target=_blank} [24.04](http://www.releases.ubuntu.com/24.04/){: target=_blank} (Jammy Jellyfish), вони були перевірені у квітні 2024.
 
 ## Встановлення програмного забезпечення
 
@@ -120,7 +120,11 @@ mkdir ~/src
 cd ~/src
 git clone https://github.com/gravitystorm/openstreetmap-carto
 cd openstreetmap-carto
+git pull --all
+git switch --detach v5.9.0
 ```
+
+"git switch" потрібно виконати тому, що це остання версія, яку ви можете побачити на OpenStreetMap, але OSM Carto перебуває у процесі переходу на інший формат бази даних. Дивіться [INSTALL.md] (https://github.com/gravitystorm/openstreetmap-carto/blob/master/INSTALL.md) для отримання нової версії OSM Carto.
 
 Далі, встановимо потрібну версію компілятора `carto`.
 
