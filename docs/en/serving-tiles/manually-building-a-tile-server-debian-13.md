@@ -1,15 +1,15 @@
 ---
 layout: docs
-title: Manually building a tile server (Debian 12)
-dist: Debian 12
-dl_timestamp: "2020-11-13T21:42:03Z"
+title: Manually building a tile server (Debian 13)
+dist: Debian 13
+dl_timestamp: "2025-08-15T12:40:00Z"
 lang: en
 ---
 
 # {{ title }}
 
 !!! info ""
-    This page describes how to install, setup and configure all the necessary software to operate your own tile server. These step-by-step instructions were written for [Debian Linux](https://www.debian.org/){: target=_blank} 12 (bookworm), and were tested in July 2023.
+    This page describes how to install, setup and configure all the necessary software to operate your own tile server. These step-by-step instructions were written for [Debian Linux](https://www.debian.org/){: target=_blank} 13 (trixie), and were tested in August 2025.
 
 ## Software installation
 
@@ -17,14 +17,14 @@ The OSM tile server stack is a collection of programs and libraries that work to
 
 It consists of 5 main components: `mod_tile`, `renderd`, `mapnik`, `osm2pgsql` and a `postgresql/postgis` database. Mod_tile is an apache module that serves cached tiles and decides which tiles need re-rendering&nbsp;– either because they are not yet cached or because they are outdated. Renderd provides a priority queueing system for different sorts of requests to manage and smooth out the load from rendering requests. Mapnik is the software library that does the actual rendering and is used by `renderd`.
 
-These instructions are have been written and tested against a newly-installed {{ dist }} server. If you have got other versions of some software already installed (perhaps you upgraded from an earlier version, or you set up some PPAs to load from) then you may need to make some adjustments.
+These instructions have been written and tested against a new {{ dist }} server. If you have got other versions of some software already installed (perhaps you upgraded from an earlier version some time ago, or you set up some PPAs to load from) then you may need to make some adjustments.
 
 In order to build these components, a variety of dependencies need to be installed first.
 
-Debian doesn't come with `sudo` by default, so we'll need to log on as `root` to do the first part:
+Debian may not come with `sudo` by default, so we may need to log on as `root` to do the first part:
 
 ```sh
---8<-- "docs/assets/serving-tiles/debian12-deps.txt"
+--8<-- "docs/assets/serving-tiles/debian13-deps.txt"
 ```
 
 While still logged on as root we'll ensure that the main user account that we are using can `sudo` to root. You'll want to change `youruseraccount` to whatever account you are using in the line below. Don't try and do everything below as `root`; it won't work.
@@ -137,7 +137,7 @@ git pull --all
 git switch --detach v5.9.0
 ```
 
-The "git switch" is needed because that's the latest release that you can see at OpenStreetMap, but OSM Carto is in the process of moving to a different database format. See OSM Carto's [INSTALL.md](https://github.com/gravitystorm/openstreetmap-carto/blob/master/INSTALL.md) for the newer version.
+The "git switch" is needed because that's the latest release that you can see at OpenStreetMap, but OSM Carto has actually moved to a different database format. See OSM Carto's [INSTALL.md](https://github.com/gravitystorm/openstreetmap-carto/blob/master/INSTALL.md) for the newer version.  The old format is called `pgsql`, the new one `flex`; later we'll get a [warning](https://osm2pgsql.org/doc/faq.html#the-pgsql-output-is-deprecated-what-does-that-mean) from `osm2pgsql` about that.
 
 Next, we'll check that we have installed a suitable version of the `carto` compiler.
 
@@ -223,11 +223,13 @@ It's worth explaining a little bit about what those options mean:
 `~/data/azerbaijan-latest.osm.pbf`
 : The final argument is the data file to load.
 
+While running that you'll get the [warning](https://osm2pgsql.org/doc/faq.html#the-pgsql-output-is-deprecated-what-does-that-mean) that was mentioned above.  The latest version of "OSM Carto" in development has been changed to use the "flex" output, but the version on the OpenStreetMap website (which this guide is designed to mirror) does not yet.
+
 That command will complete with something like "Osm2pgsql took 238s overall".
 
 ### Creating indexes
 
-Since version v5.3.0, some extra indexes now need to be [applied manually](https://github.com/gravitystorm/openstreetmap-carto/blob/master/CHANGELOG.md#v530---2021-01-28){: target=_blank}:
+Some extra indexes now need to be [applied manually](https://github.com/gravitystorm/openstreetmap-carto/blob/master/CHANGELOG.md#v530---2021-01-28){: target=_blank}:
 
 ```sh
 cd ~/src/openstreetmap-carto/
@@ -238,7 +240,7 @@ It should respond with `CREATE INDEX` 16 times.
 
 ## Database functions
 
-In version 5.9.0 of “OSM Carto” (released October 2024), some functions need to be loaded into the database manually. These can be added / re-loaded at any point using:
+In version 5.9.0 of “OSM Carto” (released October 2024), some functions need to be loaded into the database manually. These can be added using:
 
 ```sh
 cd ~/src/openstreetmap-carto/
@@ -256,11 +258,11 @@ sudo chown _renderd data
 sudo -u _renderd scripts/get-external-data.py
 ```
 
-This process involves a sizable download and may take some time - not much will appear on the screen when it is running. Some data will go directly into the database, and some will go into a “data” directory below “openstreetmap-carto”. If there is a problem here, then the Natural Earth data may have moved - look at [this issue](https://github.com/nvkelso/natural-earth-vector/issues/581#issuecomment-913988101){: target=_blank} and other issues at Natural Earth for more details. If you need to change the Natural Earth download location your copy of [this file](https://github.com/gravitystorm/openstreetmap-carto/blob/master/external-data.yml){: target=_blank} is the one to edit.
+This process involves a sizable download and may take some time - not much will appear on the screen when it is running. Some data will go directly into the database, and some will go into a “data” directory below “openstreetmap-carto”. If there is a problem here, then the Natural Earth data may have moved - look at [this issue](https://github.com/nvkelso/natural-earth-vector/issues/581#issuecomment-913988101){: target=_blank} and similar ones at Natural Earth for more details. If you need to change the Natural Earth download location your copy of [this file](https://github.com/gravitystorm/openstreetmap-carto/blob/master/external-data.yml){: target=_blank} is the one to edit.
 
 ### Fonts
 
-In version v5.6.0 and above of Carto, fonts need to be installed manually:
+Fonts need to be installed manually, like this:
 
 ```sh
 cd ~/src/openstreetmap-carto/
@@ -293,14 +295,29 @@ TILESIZE=256
 MAXZOOM=20
 ```
 
-The location of the XML file `/home/accountname/src/openstreetmap-carto/mapnik.xml` will need to be changed to the actual location on your system. You can change `[s2o]` and `URI=/hot/` as well if you like. If you want to render more than one set of tiles from one server you can - just add another section like `[s2o]` with a different name referring to a different map style. If you want it to refer to a different database to the default `gis` you can, but that's out of the scope of this document. If you've only got 2Gb or so of memory, you'll also want to reduce `num_threads` to 2. `URI=/hot/` was chosen so that the tiles generated here can more easily be used in place of the HOT tile layer at OpenStreetMap.org. You can use something else here, but `/hot/` is as good as anything.
+The location of the XML file `/home/accountname/src/openstreetmap-carto/mapnik.xml` will need to be changed to the actual location on your system. You can change `[s2o]` and `URI=/hot/` as well if you like. If you want to render more than one set of tiles from one server you can - just add another section like `[s2o]` with a different name referring to a different map style. If you want it to refer to a different database to the default `gis` you can, but that's out of the scope of this document. If you've only got 4Gb or so of memory, you'll also want to reduce `num_threads` to 2. `URI=/hot/` was chosen so that the tiles generated here can more easily be used in place of the HOT tile layer at OpenStreetMap.org. You can use something else here, but `/hot/` is as good as anything.
 
-The version of Mapnik provided by {{ dist }} at release was 3.1, and therefore the `plugins_dir` setting in the `[mapnik]` part of the file was `/usr/lib/mapnik/3.1/input`. This may change in the future. If an error occurs when trying to render tiles such as this:
+The location of the Mapnik plugins directory now varies between different architectures.  You can type ``
+
+```sh
+sudo updatedb
+locate mapnik/4.0/input
+```
+
+to find the location on your server, and then edit `/etc/renderd.conf` so that `plugins_dir` in the `[mapnik]` section is correct, perhaps something like:
+
+
+```ini
+[mapnik]
+plugins_dir=/usr/lib/aarch64-linux-gnu/mapnik/4.0/input
+```
+
+If this is set incorrectly or missing among the errors that you might get when trying to render tiles are:
 
 !!! warning ""
     An error occurred while loading the map layer 's2o': Could not create datasource for type: 'postgis' (no datasource plugin directories have been successfully registered) encountered during parsing of layer 'landcover-low-zoom'
 
-then look in `/usr/lib/mapnik` and see what version directories there are, and also look in `/usr/lib/mapnik/(version)/input` to make sure that a file `postgis.input` exists there.
+Other errors might include tiles not rendering properly and `renderd` using an unexpectedly large amount of memory.
 
 Now that we've told `renderd` how to react to tile rendering requests we need to tell the Apache web server to send them.  Unfortunately, the configuration for this has been removed from recent versions of `mod_tile`. It can, however, currently be installed from here
 
@@ -346,7 +363,7 @@ After doing so, restart `renderd`:
 sudo /etc/init.d/renderd restart
 ```
 
-If you look at the system log, you should see messages from the `renderd` service. Note that on {{ dist }}, messages are no longer written to `/var/log/syslog` by default - to follow messages as they are written, do this:
+If you look at the system log, you should see messages from the `renderd` service. Note that in the last couple of Debian versions, messages are no longer written to `/var/log/syslog` by default - to follow messages as they are written, do this:
 
 ```sh
 sudo journalctl -ef
@@ -361,21 +378,21 @@ sudo /etc/init.d/apache2 restart
 Using `#!sh sudo journalctl -ef` you should see a line such as:
 
 ```log
-Jul 01 01:50:28 h4-debian-16gb-fsn1-1 apachectl[34625]: [Sat Jul 01 01:50:28.260957 2023] [tile:notice] [pid 34625:tid 281473357369376] Loading tile config s2o at /hot/ for zooms 0 - 20 from tile directory /var/cache/renderd/tiles with extension .png and mime type image/png
+ Aug 15 12:16:08 h19 apachectl[14590]: [Fri Aug 15 12:16:08.655816 2025] [tile:notice] [pid 14590:tid 14590] Loading tile config s2o at /hot/ for zooms 0 - 20 from tile directory /var/lib/mod_tile with extension .png and mime type image/png
 ```
 
 If this does not appear it probably means that the configuration file for mod_tile `/etc/apache2/conf-available/renderd.conf` is either not set up or enabled properly - see the `wget` section above.
 
-Next, point a web browser at `http://your.server.ip.address/index.html` (change `your.server.ip.address` to your actual server address). You should see "Apache2 Debian Default Page".
+Next, point a web browser at `http://yourserveripaddress/index.html` (change `yourserveripaddress` to your actual server address). You should see "Apache2 Debian Default Page".
 
 !!! tip
-    If you don't know what IP address it will have been assigned, you can likely use `ifconfig` to find out – if the network configuration is not too complicated it'll probably be the `inet addr` that is not `127.0.0.1`.
+    If you don't know what IP address it will have been assigned, you can likely use `ip address` to find out – if the network configuration is not too complicated it'll probably be the `inet addr` that is not `127.0.0.1`.
 
-If you're using a server at a hosting provider then it's likely that your server's internal address will be different to the external address that has been allocated to you, but that external IP address will have already been sent to you, and it'll probably be the one that you're accessing the server on currently.
+If you're using a server at a hosting provider then it's possible that your server's internal address will be different to the external address that has been allocated to you, but that external IP address will have already been sent to you, and it'll probably be the one that you're accessing the server on currently.
 
 Note that this is just the `http` (port 80) site – you'll need to do a little bit more Apache configuration if you want to enable `https`, but that's out of the scope of these instructions. However, if you use "Let's Encrypt" to issue certificates, then the process of setting that up can also configure the Apache HTTPS site as well.
 
-Next, point a web browser at: `http://your.server.ip.address/hot/0/0/0.png`
+Next, point a web browser at: `http://yourserveripaddress/hot/0/0/0.png`
 
 You'll need to edit that of course if you changed `URI=/hot/` above. You should see a small map of the world. If you don't, investigate the errors that it displays. These will most likely be permissions errors, or perhaps related to accidentally missing some steps from the instructions above. If you don't get a tile and get other errors again, save the full output in a Pastebin and ask a question about the problem somewhere like [`community.openstreetmap.org`](https://community.openstreetmap.org){: target=_blank}.
 
