@@ -258,3 +258,4 @@ plugins:
         - locale: "null"
           fixed_link: https://app.transifex.com/osm-ua/swtch2osm/dashboard/#/
           name: Help to translate
+
