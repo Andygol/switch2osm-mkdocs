@@ -212,6 +212,7 @@ plugins:
             Using: Мапа
             Leaflet: За допомогою Leaflet
             OpenLayers: За допомогою OpenLayers
+            MapLibre: Початок роботи з MapLibre GL
             Vector Tiles: Переваги векторних тайлів
             Serving: Власний сервер
             Manually: Розгортаємо сервер вручну
@@ -258,4 +259,3 @@ plugins:
         - locale: "null"
           fixed_link: https://app.transifex.com/osm-ua/swtch2osm/dashboard/#/
           name: Help to translate
-
