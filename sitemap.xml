@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/case-studies/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/case-studies/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/case-studies/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/case-studies/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/find-out-more/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/find-out-more/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/find-out-more/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/find-out-more/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/other-uses/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/other-uses/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/other-uses/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/other-uses/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/providers/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/providers/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/providers/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/providers/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/the-basics/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/the-basics/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/the-basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/the-basics/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/why-switch/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/why-switch/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/why-switch/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/why-switch/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-11/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-11/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-11/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-11/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-12/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-12/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-12/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-12/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-13/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-13/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-13/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-13/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/monitoring-using-munin/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/monitoring-using-munin/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/monitoring-using-munin/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/monitoring-using-munin/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/serving-vector-tiles-with-tileserver-gl/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/serving-vector-tiles-with-tileserver-gl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/serving-vector-tiles-with-tileserver-gl/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/serving-vector-tiles-with-tileserver-gl/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/serving-vector-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/serving-vector-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/serving-vector-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/serving-vector-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-osm2pgsql-replication/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-osm2pgsql-replication/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-osm2pgsql-replication/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-osm2pgsql-replication/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-osmosis/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-osmosis/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-osmosis/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-osmosis/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-pyosmium/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-pyosmium/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-pyosmium/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-pyosmium/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/using-a-docker-container/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/using-a-docker-container/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/using-a-docker-container/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/using-a-docker-container/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/using-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-leaflet/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-leaflet/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-leaflet/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-leaflet/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-maplibre/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-maplibre/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-maplibre/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-maplibre/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-openlayers/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-openlayers/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-openlayers/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-openlayers/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/using-tiles/vector-map-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/vector-map-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/vector-map-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/vector-map-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/case-studies/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/case-studies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/case-studies/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/case-studies/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/find-out-more/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/find-out-more/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/find-out-more/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/find-out-more/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/other-uses/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/other-uses/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/other-uses/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/other-uses/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/providers/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/providers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/providers/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/providers/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/the-basics/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/the-basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/the-basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/the-basics/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/why-switch/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/why-switch/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/why-switch/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/why-switch/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-11/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-11/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-11/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-11/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-12/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-12/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-12/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-12/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-13/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-13/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-13/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-13/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/monitoring-using-munin/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/monitoring-using-munin/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/monitoring-using-munin/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/monitoring-using-munin/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/serving-vector-tiles-with-tileserver-gl/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/serving-vector-tiles-with-tileserver-gl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/serving-vector-tiles-with-tileserver-gl/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/serving-vector-tiles-with-tileserver-gl/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/serving-vector-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/serving-vector-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/serving-vector-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/serving-vector-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-osm2pgsql-replication/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-osm2pgsql-replication/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-osm2pgsql-replication/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-osm2pgsql-replication/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-osmosis/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-osmosis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-osmosis/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-osmosis/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-pyosmium/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-pyosmium/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-pyosmium/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-pyosmium/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/using-a-docker-container/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/using-a-docker-container/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/using-a-docker-container/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/using-a-docker-container/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-leaflet/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-leaflet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-leaflet/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-leaflet/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-maplibre/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-maplibre/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-maplibre/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-maplibre/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-openlayers/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-openlayers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-openlayers/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-openlayers/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/vector-map-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/vector-map-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/vector-map-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/vector-map-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/case-studies/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/case-studies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/case-studies/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/case-studies/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/find-out-more/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/find-out-more/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/find-out-more/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/find-out-more/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/other-uses/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/other-uses/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/other-uses/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/other-uses/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/providers/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/providers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/providers/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/providers/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/the-basics/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/the-basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/the-basics/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/the-basics/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/why-switch/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/why-switch/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/why-switch/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/why-switch/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-11/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-11/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-11/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-11/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-12/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-12/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-12/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-12/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-13/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-debian-13/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-debian-13/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-debian-13/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-18-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-20-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/manually-building-a-tile-server-ubuntu-24-04-lts/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/monitoring-using-munin/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/monitoring-using-munin/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/monitoring-using-munin/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/monitoring-using-munin/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/serving-vector-tiles-with-tileserver-gl/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/serving-vector-tiles-with-tileserver-gl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/serving-vector-tiles-with-tileserver-gl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/serving-vector-tiles-with-tileserver-gl/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/serving-vector-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/serving-vector-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/serving-vector-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/serving-vector-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-osm2pgsql-replication/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-osm2pgsql-replication/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-osm2pgsql-replication/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-osm2pgsql-replication/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-osmosis/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-osmosis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-osmosis/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-osmosis/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-pyosmium/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/updating-as-people-edit-pyosmium/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/updating-as-people-edit-pyosmium/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/updating-as-people-edit-pyosmium/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/using-a-docker-container/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/serving-tiles/using-a-docker-container/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/serving-tiles/using-a-docker-container/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/serving-tiles/using-a-docker-container/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-leaflet/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-leaflet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-leaflet/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-leaflet/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-maplibre/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-maplibre/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-maplibre/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-maplibre/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-openlayers/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/getting-started-with-openlayers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/getting-started-with-openlayers/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/getting-started-with-openlayers/"/>
+    </url>
+    <url>
+        <loc>https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/vector-map-tiles/</loc>
+        <lastmod>2025-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://andygol.co.ua/switch2osm-mkdocs/zh-TW/using-tiles/vector-map-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andygol.co.ua/switch2osm-mkdocs/using-tiles/vector-map-tiles/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://andygol.co.ua/switch2osm-mkdocs/uk/using-tiles/vector-map-tiles/"/>
+    </url>
+</urlset>
