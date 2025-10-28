@@ -1,4 +1,4 @@
-FROM python:3.13 AS build
+FROM python:3.14 AS build
 
 # Add Gem build requirements
 RUN apt-get update && apt-get install -y \
